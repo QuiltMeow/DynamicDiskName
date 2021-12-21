@@ -1,0 +1,15 @@
+G:\VSProject\DynamicDiskName\DynamicDiskName\bin\x86\Release\SkinH_Net.dll
+G:\VSProject\DynamicDiskName\DynamicDiskName\bin\x86\Release\Skin.she
+G:\VSProject\DynamicDiskName\DynamicDiskName\bin\x86\Release\DynamicDiskName.exe
+G:\VSProject\DynamicDiskName\DynamicDiskName\bin\x86\Release\DynamicDiskName.pdb
+G:\VSProject\DynamicDiskName\DynamicDiskName\bin\x86\Release\SkinH_CS.dll
+G:\VSProject\DynamicDiskName\DynamicDiskName\bin\x86\Release\YamlDotNet.dll
+G:\VSProject\DynamicDiskName\DynamicDiskName\bin\x86\Release\YamlDotNet.xml
+G:\VSProject\DynamicDiskName\DynamicDiskName\obj\x86\Release\DynamicDiskName.csprojAssemblyReference.cache
+G:\VSProject\DynamicDiskName\DynamicDiskName\obj\x86\Release\DynamicDiskName.AddForm.resources
+G:\VSProject\DynamicDiskName\DynamicDiskName\obj\x86\Release\DynamicDiskName.MainForm.resources
+G:\VSProject\DynamicDiskName\DynamicDiskName\obj\x86\Release\DynamicDiskName.Properties.Resources.resources
+G:\VSProject\DynamicDiskName\DynamicDiskName\obj\x86\Release\DynamicDiskName.csproj.GenerateResource.cache
+G:\VSProject\DynamicDiskName\DynamicDiskName\obj\x86\Release\DynamicDiskName.csproj.CopyComplete
+G:\VSProject\DynamicDiskName\DynamicDiskName\obj\x86\Release\DynamicDiskName.exe
+G:\VSProject\DynamicDiskName\DynamicDiskName\obj\x86\Release\DynamicDiskName.pdb
